@@ -437,3 +437,17 @@ Calling `POST /repayments/PAY123/reverse` restores all balances exactly:
 - EMI-1 principal outstanding → ₹15,000
 
 The original `PAY123` is marked `REVERSED`. Compensating negative ledger entries are written for full traceability.
+
+
+
+<img width="1916" height="1080" alt="Screenshot from 2026-05-21 12-02-11" src="https://github.com/user-attachments/assets/47af53f7-d9ad-4adc-978e-6f2b0a5f0998" />
+
+<img width="1916" height="1080" alt="Screenshot from 2026-05-21 12-03-14" src="https://github.com/user-attachments/assets/afab229e-a8c0-4f33-9616-d75006205477" />
+
+<img width="1916" height="1080" alt="Screenshot from 2026-05-21 12-03-21" src="https://github.com/user-attachments/assets/6f5133b5-9935-4cd3-ad47-86837e8f8ea5" />
+
+<img width="1916" height="1080" alt="Screenshot from 2026-05-21 12-03-30" src="https://github.com/user-attachments/assets/2a6ccd5f-ae51-41a3-b754-3f043b80aad6" />
+
+<img width="1916" height="1080" alt="Screenshot from 2026-05-21 12-03-59" src="https://github.com/user-attachments/assets/3ffad7a1-bf15-4d05-8021-da0708952d33" />
+
+
