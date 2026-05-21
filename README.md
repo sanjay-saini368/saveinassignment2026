@@ -10,7 +10,7 @@ A production-grade backend service built with **Java 17 + Spring Boot 3** that h
 | Layer          | Technology                          |
 |----------------|-------------------------------------|
 | Language       | Java 17                             |
-| Framework      | Spring Boot 3.2.5                   |
+| Framework      | Spring Boot 4.0.6                   |
 | Database       | PostgreSQL 15                       |
 | ORM            | Spring Data JPA / Hibernate         |
 | API Docs       | SpringDoc OpenAPI (Swagger UI)      |
